@@ -26,5 +26,4 @@ This project is a **web-based stock price predictor** built using **LSTM (Long S
 
 ---
 
-## 📂 Project Structure
 
